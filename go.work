@@ -1,0 +1,6 @@
+go 1.18
+
+use (
+	./02_Linked_List
+	./01_Arrays_and_Strings
+)
