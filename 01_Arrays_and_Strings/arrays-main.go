@@ -8,6 +8,8 @@ func main() {
 	// mainCheckPermutation()
 
 	//  1_4_Palindrome_Permutation
-	mainCheckStringPermutationPalindrome()
+	// mainCheckStringPermutationPalindrome()
 
+	// 1_5_One_Away
+	mainCheckEditString()
 }
