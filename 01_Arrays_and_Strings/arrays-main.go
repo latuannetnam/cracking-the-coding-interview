@@ -11,5 +11,8 @@ func main() {
 	// mainCheckStringPermutationPalindrome()
 
 	// 1_5_One_Away
-	mainCheckEditString()
+	// mainCheckEditString()
+
+	// 1_6_String_Compression
+	mainCompressString()
 }
