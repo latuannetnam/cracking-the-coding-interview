@@ -17,5 +17,8 @@ func main() {
 	// mainCompressString()
 
 	// 1_7_Rotate_Matrix
-	mainRotateMatrix()
+	// mainRotateMatrix()
+
+	// 1_8_Zero_Matrix
+	mainZeroMatrix()
 }
