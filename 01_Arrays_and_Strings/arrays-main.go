@@ -14,5 +14,8 @@ func main() {
 	// mainCheckEditString()
 
 	// 1_6_String_Compression
-	mainCompressString()
+	// mainCompressString()
+
+	// 1_7_Rotate_Matrix
+	mainRotateMatrix()
 }
